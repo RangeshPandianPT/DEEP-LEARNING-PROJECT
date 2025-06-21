@@ -1,6 +1,20 @@
 
 # CNN Image Classification with TensorFlow
 
+COMPANY : CODTECH IT SOLUTIONS
+
+NAME : MUZAMMIL AHMED 
+
+INTERN ID : CT04DG2827
+
+DOMAIN: WEB DEVELOPMENT 
+
+DURATION : 4 WEEKS 
+
+MWNTOR : NEELA SANTHOS 
+
+---
+
 This project implements a Convolutional Neural Network (CNN) using TensorFlow and Keras to classify images from the CIFAR-10 dataset.
 
 ## Features
@@ -11,10 +25,14 @@ This project implements a Convolutional Neural Network (CNN) using TensorFlow an
 - Result visualizations using matplotlib and seaborn
 - Export model as .h5 file
 
+---
+
 ## Visualizations
 - accuracy_plot.png
 - loss_plot.png
 - confusion_matrix.png
+
+---
 
 ## Usage
 ```bash
