@@ -28,7 +28,12 @@ This project implements a Convolutional Neural Network (CNN) using TensorFlow an
 ---
 
 ## Visualizations
-- accuracy_plot.png
+![Image](https://github.com/user-attachments/assets/ea61fba2-30ac-48fc-845b-b47790553ea8)
+
+![Image](https://github.com/user-attachments/assets/410aeb24-fe10-44f3-b9fd-d8502a423db0)
+
+![Image](https://github.com/user-attachments/assets/fd6e4e47-98d4-4ea3-9b9b-f76d6b7c5d4f)
+-accuracy_plot.png
 - loss_plot.png
 - confusion_matrix.png
 
